@@ -5,10 +5,9 @@ Aerospace Systems Engineering Student
 
 
 ### About Me:
-I am an undergraduate student in Aerospace Systems Engineering, with a strong interest in **electronics and aerospace systems design**.  
-I have a particular passion for **automation, data analysis, and control systems**.  
+Aerospace Systems Engineering student with a strong interest in electronics and the design of aerospace systems. Passionate about automation, data analysis, and control systems. 
 
-I am currently developing my skills through academic projects, aiming to contribute to **innovative solutions in the aerospace and electronics sectors**.
+I am currently developing my skills through academic projects, aiming to contribute to innovative solutions in the aerospace and electronics sectors.
 
 
 ### Languages:
