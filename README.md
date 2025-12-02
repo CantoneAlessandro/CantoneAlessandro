@@ -59,12 +59,12 @@ I am currently developing my skills through academic projects, aiming to contrib
   </a>
 
   <!-- Multisim -->
-  <a href="https://www.ni.com/en/support/download/multisim.html" target="_blank" rel="noreferrer">
+  <a href="https://www.ni.com/en/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim.html" target="_blank" rel="noreferrer">
     <img src="./images/NI Multisim.png" alt="Multisim" height="40"/>
   </a>
 
   <!-- LabVIEW -->
-  <a href="https://www.ni.com/en/support/download.labview.html" target="_blank" rel="noreferrer">
+  <a href="https://www.ni.com/en-us/shop/labview.html" target="_blank" rel="noreferrer">
     <img src="./images/LabVIEW.png" alt="LabVIEW" height="40"/>
   </a>
 
