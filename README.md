@@ -50,9 +50,3 @@ I am currently developing my skills through academic projects, aiming to contrib
   </a>
 </p>
 
-
-### Connect with Me:
-<a href="https://www.linkedin.com/in/alessandro-cantone/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alessandro Cantone" height="30" />
-</a>
-
