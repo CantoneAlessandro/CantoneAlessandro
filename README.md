@@ -68,6 +68,11 @@ I am currently developing my skills through academic projects, aiming to contrib
     <img src="./images/LabVIEW.png" alt="LabVIEW" height="40"/>
   </a>
 
+  <!-- EasyEDA -->
+  <a href="https://easyeda.com/" target="_blank" rel="noreferrer">
+    <img src="./images/EasyEDA.png" alt="EasyEDA" height="40"/>
+  </a>
+
   <!-- CST -->
   <a href="https://www.cst.com/" target="_blank" rel="noreferrer">
     <img src="./images/CST.png" alt="CST Studio Suite" height="40"/>
