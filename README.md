@@ -171,9 +171,9 @@ I am currently developing my skills through academic projects, aiming to contrib
     <img src="./images/SolidWorks.png" alt="SolidWorks" height="40"/>
   </a>
 
-  <!-- LaTeX -->
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" height="40"/>
+  <!-- Overleaf -->
+  <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer">
+    <img src="./images/Overleaf.png" alt="Overleaf" height="40"/>
   </a>
 </p>
 
