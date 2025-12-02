@@ -80,7 +80,7 @@ I am currently developing my skills through academic projects, aiming to contrib
 
   <!-- SolidWorks -->
   <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="SolidWorks" height="40"/>
+    <img src="./images/SolidWorks.png" alt="SolidWorks" height="40"/>
   </a>
 
   <!-- LaTeX -->
